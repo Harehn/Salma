@@ -1,7 +1,7 @@
 <template>
   <div class="main">    
-    <Box style="background-color:grey"><Animation/></Box>
-    <Box style="background-color:aqua"><Heading message="Happy birthday, Johanna!! 🎂"/></Box>
+    <!-- <Box style="background-color:grey"><Animation/></Box> -->
+    <Box style="background-color:aqua"><Heading message="Happy birthday, Salma!! 🎂"/></Box>
     <!-- <Box style="background-color:grey"><Animation/></Box> -->
     <Box style="background-color:blue" id="letter"><Letter/></Box>
     <!-- <Box style="background-color:black">Text Message</Box> -->

@@ -3,9 +3,9 @@
             <h1>We don't have enough pictures.</h1>
     <!-- <p>Hello World</p> -->
      <div class="holder">
-        <img id="one" :src="require(`@/assets/memories1.jpg`)" alt="">
-        <img :src="require(`@/assets/memories2.jpg`)" alt="">
-        <img :src="require(`@/assets/memories3.jpg`)" alt="">
+        <img id="one" :src="require(`@/assets/memories1.jpeg`)" alt="">
+        <img :src="require(`@/assets/memories2.jpeg`)" alt="">
+        <img :src="require(`@/assets/memories3.jpeg`)" alt="">
         <img :src="require(`@/assets/memories4.png`)" alt="">
      </div>
   </div>

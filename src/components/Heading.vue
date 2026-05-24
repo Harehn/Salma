@@ -37,7 +37,7 @@ export default {
     width: fit-content;
     margin: auto;
 }
-h1 {
+h4 {
     width:30ch;
     text-wrap: nowrap;
     overflow:hidden;

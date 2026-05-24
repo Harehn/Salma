@@ -1,6 +1,6 @@
 <template>
   <div class="masonry">
-            <h1>We don't have enough pictures.</h1>
+            <h1>I just grabbed some random pictures.</h1>
     <!-- <p>Hello World</p> -->
      <div class="holder">
         <img id="one" :src="require(`@/assets/memories1.jpeg`)" alt="">

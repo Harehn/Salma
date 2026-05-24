@@ -5,7 +5,7 @@
     <!-- <Box style="background-color:grey"><Animation/></Box> -->
     <Box style="background-color:blue" id="letter"><Letter/></Box>
     <!-- <Box style="background-color:black">Text Message</Box> -->
-    <!-- <Box style="background-color:red"><Masonry/></Box> -->
+    <Box style="background-color:red"><Masonry/></Box>
     <Box style="background-color:purple"><Song/></Box>
   </div>
 </template>

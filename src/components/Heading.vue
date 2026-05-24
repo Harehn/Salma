@@ -1,7 +1,7 @@
 <template>
   <div class="heading">
     <div class="content">
-      <h1>{{ message }}</h1>
+      <h4>{{ message }}</h4>
     </div>
   </div>
 </template>
